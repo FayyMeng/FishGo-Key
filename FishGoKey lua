@@ -14,7 +14,7 @@ local function createDualKeySystemGUI()
 
     local CONFIG = {
         LinkvertiseURL = "https://link-target.net/3394206/UgWbyzUCNZ9U",
-        LootLabsURL = "https://loot-link.com/s?QSr4WGCc&data=7hDViHN3IUApLO81kcTWQrkXahXehjk1FugYwX%2B29m3GXlhQC4PX7EjKv7Ee5zj2",
+        LootLabsURL = "https://loot-link.com/s?rCGzCLSh&data=7hDViHN3IUApLO81kcTWQvy6NAaVx5ZVlIibZ%2BLdVgVcFVSHjp0RzAtE/OlraWrq",
         MainScriptUrl = "https://raw.githubusercontent.com/FayyMeng/Fish-Go-Script/refs/heads/main/FishGo.lua",
         DiscordURL = "https://discord.gg/Dz2BafGg7",
     }
